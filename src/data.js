@@ -20,4 +20,4 @@ const products = [
   },
 ];
   console.log(makeList({products}))
-  document.querySelector("#box").innerHTML=makeList(products)
+  document.querySelector("#box").innerHTML=makeList({products})
