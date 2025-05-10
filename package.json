@@ -2,7 +2,7 @@
   "name": "hw-js2-7",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://ostik1220.github.io/hw-js2-7/",
+  "homepage": "https://github.com/Ostik1220/hw-js2-7",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
